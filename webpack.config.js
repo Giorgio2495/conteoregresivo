@@ -9,7 +9,7 @@ module.exports = {
         app: './src/app/index.js'
     },
     output: {
-        path: path.resolve(__dirname, 'build'),
+        path: path.resolve(__dirname, 'dist'),
         filename: 'app.bundle.js'
     },
     devServer:{
