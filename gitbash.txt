@@ -1,0 +1,3 @@
+cd ./desktop para entrar al escritorio 
+git clone para colonar el repositorio 
+./nombre de la carpeta tabular para completar el nombre y tener que escrinir tantp
